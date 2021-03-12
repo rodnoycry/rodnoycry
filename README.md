@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rodnoycry
+- 👀 I’m interested in big projects
+- 🌱 I’m currently learning Python and JS
+- 📫 How to reach me: vkhk99@gmail.com
