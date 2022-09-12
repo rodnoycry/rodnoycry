@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rodnoycry
 - 🍹 Co-Founder & CTO at Amojito
-- 🌱 I’m currently learning Python and JS
+- 🌱 I’m currently working with Python and JS
 - 📫 How to reach me: vkhk99@gmail.com
