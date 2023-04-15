@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rodnoycry
-- 🍹 Co-Founder & CTO at Amojito
-- 🌱 I’m currently working with Python and JS
+- 👋 Hi, I’m Nikita Leontev
+- 🍹 React.js developer, Python developer
+- 🌱 I’m currently open to offers
 - 📫 How to reach me: vkhk99@gmail.com
