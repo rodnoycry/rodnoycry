@@ -55,7 +55,7 @@ I'm passionate about creating user-oriented applications that surprise and delig
 
 </br>
 
-![](https://img.shields.io/badge/Figma-5D57DE?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Figma-FAFAFA?style=for-the-badge&logo=figma&logoColor=black)
 
 ## 📈 GitHub Stats 
 
