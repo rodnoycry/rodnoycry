@@ -37,6 +37,7 @@ I'm passionate about creating user-oriented applications that surprise and delig
 ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/Firebase-F24E1E?style=for-the-badge&logo=Firebase&logoColor=white)
+![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </br>
