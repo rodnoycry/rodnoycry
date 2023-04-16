@@ -1,20 +1,20 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+  <img src="https://ibb.co/tM1zMzw" alt="my banner">
 </p>
 
-<h3 align="center">
-Hi, my name Nikita Leontev! 👋
-</h3>
-
 <h2 align="center">
+Hi, my name Nikita Leontev! 👋
+</h2>
+
+<h3 align="center">
 I'm a Frontend Web Developer 💻, and Designer 🎨!
-</h2> 
+</h3> 
 
 I'm passionate about creating user-oriented applications that surprise and delight. I take pride in providing exceptional user experiences, and I love tackling challenging problems to find innovative solutions
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/nikitaleontev/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Nikita Leontev | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/nikitaleontev/"><img align="left" src="https://ibb.co/DG0XxVR" alt="Nikita Leontev | LinkedIn" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
