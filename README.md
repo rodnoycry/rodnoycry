@@ -19,7 +19,7 @@ I'm passionate about creating user-oriented applications that surprise and delig
 </p>
 <h4> 🔭 I'm currently working on </h4>
 
-- Maintaining food delivery web site (React.js)
+- Maintaining food delivery website (React.js)
 - Creating mobile app for food delivery service (React-Native)
 - Creating mobile app for E-Learning startup (React-Native)
 - Maintaining my old projects (Python chatbots)
@@ -54,7 +54,7 @@ I'm passionate about creating user-oriented applications that surprise and delig
 
 ## 📈 GitHub Stats 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=rodnoycry)](https://github.com/rodnoycry)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=rodnoycry&show_icons=true&theme=dark)](https://github.com/rodnoycry)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodnoycry&layout=compact)](https://github.com/rodnoycry)
 
