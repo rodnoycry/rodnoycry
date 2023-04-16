@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://ibb.co/tM1zMzw" alt="my banner">
+  <img src="https://user-images.githubusercontent.com/57617326/232260351-831217af-a095-4767-988e-4c8ffd45cb0e.jpg" alt="my banner">
 </p>
 
-<h2 align="center">
 Hi, my name Nikita Leontev! 👋
 </h2>
 
-<h3 align="center">
 I'm a Frontend Web Developer 💻, and Designer 🎨!
 </h3> 
 
@@ -14,7 +12,7 @@ I'm passionate about creating user-oriented applications that surprise and delig
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/nikitaleontev/"><img align="left" src="https://ibb.co/DG0XxVR" alt="Nikita Leontev | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/nikitaleontev/"><img align="left" src="https://user-images.githubusercontent.com/57617326/232260362-4642a224-e515-4fff-a351-957b1a4acd06.png" alt="Nikita Leontev | LinkedIn" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
