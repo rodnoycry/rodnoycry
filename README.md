@@ -17,21 +17,21 @@ I'm passionate about creating user-oriented applications that surprise and delig
 <p>
   - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 </p>
-## 🔭 I'm currently working on
+<h4> 🔭 I'm currently working on </h4>
 
 - Maintaining food delivery web site (React.js)
 - Creating mobile app for food delivery service (React-Native)
 - Creating mobile app for E-Learning startup (React-Native)
 - Maintaining my old projects (Python chatbots)
 
-## 🌱 I'm currently learning
+<h4> 🌱 I'm currently learning</h4>
 
 - SaSS
 - GpaphQL
 - Next.js
 - MongoDB  
 
-## 💼 Technical Skills
+<h4> 💼 Technical Skills</h4>
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
