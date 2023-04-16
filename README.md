@@ -12,10 +12,11 @@ I'm passionate about creating user-oriented applications that surprise and delig
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/nikitaleontev/"><img align="left" src="https://user-images.githubusercontent.com/57617326/232260362-4642a224-e515-4fff-a351-957b1a4acd06.png" alt="Nikita Leontev | LinkedIn" width="210px"/></a>
+<a href="https://www.linkedin.com/in/nikitaleontev/"><img align="left" src="https://user-images.githubusercontent.com/57617326/232260362-4642a224-e515-4fff-a351-957b1a4acd06.png" alt="Nikita Leontev | LinkedIn" width="150px"/></a>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
+<p>
+  - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+</p>
 ## 🔭 I'm currently working on
 
 - Maintaining food delivery web site (React.js)
