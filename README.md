@@ -49,7 +49,7 @@ I'm passionate about creating user-oriented applications that surprise and delig
 </br>
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/Nginx-5D57DE?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Nginx-5D57DE?style=for-the-badge&logo=nginx&logoColor=black)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 
