@@ -60,7 +60,3 @@ I'm passionate about creating user-oriented applications that surprise and delig
 
 ## 📈 GitHub Stats 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=rodnoycry&show_icons=true&hide=issues,contribs&include_all_commits=true&theme=dark)](https://github.com/rodnoycry)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodnoycry&layout=compact)](https://github.com/rodnoycry)
-
