@@ -38,9 +38,9 @@ I'm passionate about creating user-oriented applications that surprise and delig
 ![Delivery Demo]()
 <h4> Delivery demo website </h4>
 This is website based on my production project for food delivery business, which helped the owner earn more than $5000 in 1,5 month
+![Source code](https://github.com/rodnoycry/delivery-website)
 <i> Published with the kind permission of the business owner </i>
 <br />
-[Source code](https://github.com/rodnoycry/delivery-website)
 
 <h3> 💼 Technical Skills </h3>
 
