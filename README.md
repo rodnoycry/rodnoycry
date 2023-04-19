@@ -50,7 +50,7 @@ This is website based on my production project for food delivery business, which
 
 Language: <b>Typescript</b>
 
-Stack: <b>React.js, Redux, Firestore, Firebase Auth, Express.js</b>
+Stack: <b>React.js, Redux, React Router DOM v5, Firestore, Firebase Auth, Express.js</b>
 <br />
 
 <i> Published with the kind permission of the business owner </i>
