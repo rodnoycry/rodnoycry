@@ -32,14 +32,14 @@ I'm passionate about creating user-oriented applications that surprise and delig
 - MongoDB
 
 <h3> 💻 My demonstration project </h3>
-![Delivery Demo](https://user-images.githubusercontent.com/57617326/232930608-cb2b8c58-60ef-4922-9b5f-933835b48c80.png)
+<p> ![Delivery Demo](https://user-images.githubusercontent.com/57617326/232930608-cb2b8c58-60ef-4922-9b5f-933835b48c80.png)</p>
 <h4> Delivery demo website </h4>
 This is website based on my production project for food delivery business, which helped the owner earn more than $5000 in 1,5 month
 <i> Published with the kind permission of the business owner </i>
 <br />
-<h4>[Source code](https://github.com/rodnoycry/delivery-website)</h4>
+<p> [Source code](https://github.com/rodnoycry/delivery-website) </p>
 
-<h3> 💼 Technical Skills</h3>
+<h3> 💼 Technical Skills </h3>
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
