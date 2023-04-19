@@ -41,10 +41,14 @@ I'm passionate about creating user-oriented applications that surprise and delig
 <p align="center">
   <img src="https://user-images.githubusercontent.com/57617326/232937086-726a2a55-3767-4d78-848e-7132b9338c42.png" alt="Website preview">
 </p>
-<h3> Delivery website </h3>
+<h3> Food delivery website </h3>
+<b>Link to deployed version:</b> https://rodnoycry.ru
 <b>Source code:</b> https://github.com/rodnoycry/delivery-website
 <br/>
 This is website based on my production project for food delivery business, which helped the owner earn more than $5000 in 1,5 month
+
+Language: <b>Typescript</b>
+Stack: <b>React.js, Redux, Firestore, Firebase Auth, Express.js</b>
 <br />
 
 <br />
