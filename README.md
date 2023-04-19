@@ -10,41 +10,6 @@ I'm a Frontend Web Developer 💻, and Designer 🎨!
 
 I'm passionate about creating user-oriented applications that surprise and delight. I take pride in providing exceptional user experiences, and I love tackling challenging problems to find innovative solutions
 
-### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/nikitaleontev/"><img align="left" src="https://user-images.githubusercontent.com/57617326/232260362-4642a224-e515-4fff-a351-957b1a4acd06.png" alt="Nikita Leontev | LinkedIn" width="100px"/></a>
-</br>
-<p>
-  - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-</p>
-<h3> 🔭 I'm currently working on </h3>
-
-- Maintaining food delivery website (React.js)
-- Creating mobile app for food delivery service (React-Native)
-- Creating mobile app for E-Learning startup (React-Native)
-- Maintaining my old projects (Python chatbots)
-
-<h3> 🌱 I'm currently learning</h3>
-
-- SaSS
-- GpaphQL
-- Next.js
-- MongoDB
-
-<h3> 💻 My demonstration project </h3>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/57617326/232937086-726a2a55-3767-4d78-848e-7132b9338c42.png" alt="Website preview">
-</p>
-<h3> Delivery website </h3>
-<b>Source code:</b> https://github.com/rodnoycry/delivery-website
-<br/>
-This is website based on my production project for food delivery business, which helped the owner earn more than $5000 in 1,5 month
-<br />
-
-<br />
-<i> Published with the kind permission of the business owner </i>
-<br />
-
 <h3> 💼 Technical Skills </h3>
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -71,6 +36,42 @@ This is website based on my production project for food delivery business, which
 </br>
 
 ![](https://img.shields.io/badge/Figma-FAFAFA?style=for-the-badge&logo=figma&logoColor=black)
+
+<h3> 💻 My demonstration project </h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57617326/232937086-726a2a55-3767-4d78-848e-7132b9338c42.png" alt="Website preview">
+</p>
+<h3> Delivery website </h3>
+<b>Source code:</b> https://github.com/rodnoycry/delivery-website
+<br/>
+This is website based on my production project for food delivery business, which helped the owner earn more than $5000 in 1,5 month
+<br />
+
+<br />
+<i> Published with the kind permission of the business owner </i>
+<br />
+
+<h3> 🔭 I'm currently working on </h3>
+
+- Maintaining food delivery website (React.js)
+- Creating mobile app for food delivery service (React-Native)
+- Creating mobile app for E-Learning startup (React-Native)
+- Maintaining my old projects (Python chatbots)
+
+<h3> 🌱 I'm currently learning</h3>
+
+- SaSS
+- GpaphQL
+- Next.js
+- MongoDB
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/nikitaleontev/"><img align="left" src="https://user-images.githubusercontent.com/57617326/232260362-4642a224-e515-4fff-a351-957b1a4acd06.png" alt="Nikita Leontev | LinkedIn" width="100px"/></a>
+</br>
+<p>
+  - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+</p>
 
 ## 📈 GitHub Stats 
 
