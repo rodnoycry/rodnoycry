@@ -49,6 +49,7 @@ I'm passionate about creating user-oriented applications that surprise and delig
 This is website based on my production project for food delivery business, which helped the owner earn more than $5000 in 1,5 month
 
 Language: <b>Typescript</b>
+
 Stack: <b>React.js, Redux, Firestore, Firebase Auth, Express.js</b>
 <br />
 
