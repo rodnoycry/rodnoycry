@@ -33,12 +33,12 @@ I'm passionate about creating user-oriented applications that surprise and delig
 
 <h3> 💻 My demonstration project </h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/57617326/232930608-cb2b8c58-60ef-4922-9b5f-933835b48c80.png" alt="Website preview">
+  <img src="https://user-images.githubusercontent.com/57617326/232936068-f4c7278d-8567-4d5c-839e-fe1a0b1b5907.png" alt="Website preview">
 </p>
-![Delivery Demo]()
 <h4> Delivery demo website </h4>
 This is website based on my production project for food delivery business, which helped the owner earn more than $5000 in 1,5 month
-![Source code](https://github.com/rodnoycry/delivery-website)
+<br/>
+<b>Source code:</b> (https://github.com/rodnoycry/delivery-website)
 <i> Published with the kind permission of the business owner </i>
 <br />
 
