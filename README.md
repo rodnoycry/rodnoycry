@@ -79,7 +79,7 @@ Stack: <b>React.js, Redux, React Router DOM v5, Firestore, Firebase Auth, Expres
 </p>
 
 ## 📈 GitHub Stats 
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=rodnoycry&show_icons=false&hide=issues,contribs&include_all_commits=true&theme=dark)](https://github.com/rodnoycry)
+<!-- 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=rodnoycry&show_icons=false&hide=issues,contribs&include_all_commits=true&theme=dark)](https://github.com/rodnoycry) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodnoycry&layout=compact)](https://github.com/rodnoycry) -->
