@@ -1,3 +1,4 @@
 <pre>
-My name Nikita Leontev, I am react and react-native developer.
+My name Nikita Leontev, I full-stack serverless develoepr.
+Open for hiring: vkhk99@gmail.com
 </pre>
